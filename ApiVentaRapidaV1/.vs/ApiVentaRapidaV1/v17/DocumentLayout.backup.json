@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\services\\saleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\controllers\\salecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|d:\\downloads\\apiventarapida_v1\\apiventarapidav1\\apiventarapidav1\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{43527B8C-4B82-4FCE-8FBA-936E6EDCE5C1}|ApiVentaRapidaV1\\ApiVentaRapidaV1.csproj|solutionrelative:apiventarapidav1\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwv3YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:12:48.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:42:36.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:22:57.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:31:37.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:48:36.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:31:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Services\\CustomerService.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\CustomerService.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T16:10:33.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "script.sql ",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\script.sql",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\script.sql",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\script.sql",
+              "RelativeToolTip": "ApiVentaRapidaV1\\script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-13T15:41:43.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Global.asax.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Global.asax.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Global.asax.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Global.asax.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:53:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaleController.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\SaleController.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Controllers\\SaleController.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Controllers\\SaleController.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Controllers\\SaleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:22:41.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleService.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\SaleService.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Services\\SaleService.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\SaleService.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Services\\SaleService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T15:14:40.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:31:24.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:31:17.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Web.config",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Web.config",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Web.config",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Web.config",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-13T14:17:44.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ApiVentaRapidaV1\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Downloads\\ApiVentaRapida_V1\\ApiVentaRapidaV1\\ApiVentaRapidaV1\\Services\\ProductService.cs",
+              "RelativeToolTip": "ApiVentaRapidaV1\\Services\\ProductService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T14:24:16.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
