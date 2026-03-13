@@ -1,0 +1,188 @@
+:host {
+    display: block;
+    background-color: #f4f7f6;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+}
+
+.main-container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.page-header h1 {
+    color: #2c3e50;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+
+/* Layout Grid */
+.content-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 25px;
+}
+
+@media (max-width: 850px) {
+    .content-grid { grid-template-columns: 1fr; }
+}
+
+/* Tarjetas Comunes */
+.form-card, .cart-card {
+    background: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+h3 {
+    font-size: 1.1rem;
+    color: #7f8c8d;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Form Controls */
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #444;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+.product-adder {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+/* Botones */
+.btn-add {
+    background: #3498db;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+    transition: background 0.3s;
+}
+
+.btn-add:hover { background: #2980b9; }
+
+.btn-save {
+    background: #27ae60;
+    color: white;
+    border: none;
+    width: 100%;
+    padding: 18px;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: transform 0.2s, background 0.3s;
+}
+
+.btn-save:hover {
+    background: #219150;
+    transform: translateY(-2px);
+}
+
+.btn-save:disabled {
+    background: #bdc3c7;
+    cursor: not-allowed;
+}
+
+/* Tabla de Carrito */
+.table-wrapper {
+    min-height: 200px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th {
+    text-align: left;
+    border-bottom: 2px solid #f0f0f0;
+    padding: 12px 8px;
+    color: #95a5a6;
+    font-size: 0.85rem;
+}
+
+.table td {
+    padding: 15px 8px;
+    border-bottom: 1px solid #f9f9f9;
+}
+
+.btn-delete {
+    background: #ff7675;
+    color: white;
+    border: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* Footer y Totales */
+.cart-footer {
+    margin-top: 25px;
+    padding-top: 20px;
+    border-top: 2px dashed #f0f0f0;
+}
+
+.total-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.total-section span { color: #7f8c8d; font-weight: bold; }
+.total-amount { color: #2c3e50; margin: 0; font-size: 2rem; }
+
+/* Alertas */
+.success-alert {
+    margin-top: 20px;
+    background: #d4edda;
+    border: 1px solid #c3e6cb;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.success-alert button {
+    background: #155724;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.error-alert {
+    margin-top: 15px;
+    color: #721c24;
+    background-color: #f8d7da;
+    padding: 10px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
